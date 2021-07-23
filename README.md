@@ -1,4 +1,4 @@
-![Zip Codes](images/metro-atlanta-zip-codes-map.jpeg)
+![Zip Codes](time-series/images/metro-atlanta-zip-codes-map.jpeg)
 
  
 # Atlanta Zipcode Analysis Project
@@ -41,22 +41,22 @@ I use descriptive analysis and time-series modeling to show:
 Due to the datasets used and their current nature, I'm confident these findings will prove relevant as Hellbent Investments begins their next real-estate outspend. There are many more ways we can deepen our analysis to prove even more insightful with more time and access to additional data.
 
 ### Atlanta Home Values in 1998
-![graph1](./images/viz_1.png)
+![graph1](./time-series/images/viz_1.png)
 
 ### Atlanta Home Values in 2018
-![graph2](./images/viz_2.png)
+![graph2](./time-series/images/viz_2.png)
 
 ### Atlanta Home Values from 1998 - 2018
-![graph3](./images/viz_3.png)
+![graph3](./time-series/images/viz_3.png)
 
 ### Population Density Across Atlanta Zip Codes
-![graph4](./images/viz_4.png)
+![graph4](./time-series/images/viz_4.png)
 
 ### Atlanta Home Values from 1996 - 2018
-![graph5](./images/viz_5.png)
+![graph5](./time-series/images/viz_5.png)
 
 ### Atlanta Home Values from 2010 - 2018
-![graph6](./images/vi_6.png)
+![graph6](./time-series/images/vi_6.png)
 
 ## Conclusions
 
