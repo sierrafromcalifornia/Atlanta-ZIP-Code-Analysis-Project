@@ -56,7 +56,7 @@ Due to the datasets used and their current nature, I'm confident these findings 
 ![graph5](./time-series/images/viz_5.png)
 
 ### Atlanta Home Values from 2010 - 2018
-![graph6](./time-series/images/vi_6.png)
+![graph6](./time-series/images/viz_6.png)
 
 ## Conclusions
 
