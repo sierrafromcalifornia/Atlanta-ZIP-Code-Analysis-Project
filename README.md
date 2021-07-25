@@ -44,7 +44,7 @@ Due to the datasets used and their current nature, I'm confident these findings 
 ![graph1](./images/viz_1.png)
 
 ### Atlanta Home Values in 2018
-![graph2](.images/viz_2.png)
+![graph2](./images/viz_2.png)
 
 ### Atlanta Home Values from 1998 - 2018
 ![graph3](./images/viz_3.png)
