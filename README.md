@@ -1,6 +1,6 @@
 ![Zip Codes](time-series/images/metro-atlanta-zip-codes-map.jpeg)
 
- 
+
 # Atlanta Zipcode Analysis Project
 
 **Author**: Sierra Stanton
@@ -34,7 +34,7 @@ Zillow Research's Zillow Data (`zillow_data.csv`): this dataset shows us the ave
 ## Methods & Results
 
 I use descriptive analysis and time-series modeling to show:
-* How the home values across Atlanta zipcodes ranged over twenty-two years 
+* How the home values across Atlanta zipcodes ranged over twenty-two years
 * The population density across Atlanta zipcodes
 * The effect of the 08' housing crisis and how we narrowed data appropriately to downvalue this trend
 
@@ -78,8 +78,8 @@ For any additional questions, please contact **Sierra Stanton** & stanton.sierra
 
 ```
 ├── README.md
-├── time-series (investment_analysis_eda.ipynb, investment_analysis_modeling.ipynb
+├── notebooks
 ├── Atlanta_Zipcode_Analysis_Project.pdf
-├── zillow_data.csv
+├── data
 └── images
 ```
