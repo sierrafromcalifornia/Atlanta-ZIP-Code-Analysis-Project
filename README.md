@@ -1,4 +1,4 @@
-![Zip Codes](time-series/images/metro-atlanta-zip-codes-map.jpeg)
+![Zip Codes](./images/metro-atlanta-zip-codes-map.jpeg)
 
 
 # Atlanta Zipcode Analysis Project
@@ -41,22 +41,22 @@ I use descriptive analysis and time-series modeling to show:
 Due to the datasets used and their current nature, I'm confident these findings will prove relevant as Hellbent Investments begins their next real-estate outspend. There are many more ways we can deepen our analysis to prove even more insightful with more time and access to additional data.
 
 ### Atlanta Home Values in 1998
-![graph1](./time-series/images/viz_1.png)
+![graph1](./images/viz_1.png)
 
 ### Atlanta Home Values in 2018
-![graph2](./time-series/images/viz_2.png)
+![graph2](.images/viz_2.png)
 
 ### Atlanta Home Values from 1998 - 2018
-![graph3](./time-series/images/viz_3.png)
+![graph3](./images/viz_3.png)
 
 ### Population Density Across Atlanta Zip Codes
-![graph4](./time-series/images/viz_4.png)
+![graph4](./images/viz_4.png)
 
 ### Atlanta Home Values from 1996 - 2018
-![graph5](./time-series/images/viz_5.png)
+![graph5](./images/viz_5.png)
 
 ### Atlanta Home Values from 2010 - 2018
-![graph6](./time-series/images/viz_6.png)
+![graph6](./images/viz_6.png)
 
 ## Conclusions
 
@@ -70,7 +70,7 @@ This goes beyond our initial time-series analysis and is worth further explorati
 
 ## For More Information
 
-Please review my full analysis in my notebooks: [P1: EDA](./investment_analysis_eda.ipynb), [P2: Modeling](./investment_analysis_eda.ipynb) or [presentation](./Film_Analysis_Project.pdf).
+Please review my full analysis in my [Jupyter notebooks](./notebooks) or [presentation](./Film_Analysis_Project.pdf).
 
 For any additional questions, please contact **Sierra Stanton** & stanton.sierraerin@gmail.com
 
@@ -79,7 +79,7 @@ For any additional questions, please contact **Sierra Stanton** & stanton.sierra
 ```
 ├── README.md
 ├── notebooks
-├── Atlanta_Zipcode_Analysis_Project.pdf
 ├── data
-└── images
+├── images
+└── Atlanta_Zipcode_Analysis_Project.pdf
 ```
