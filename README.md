@@ -60,17 +60,21 @@ Due to the datasets used and their current nature, I'm confident these findings 
 
 ## Conclusions
 
-In development.
+Our top ZIP codes and where we should focus our development efforts are: 30316, 30309, 30308, 30307, 30306
 
 ## Next Steps
 
 This goes beyond our initial time-series analysis and is worth further exploration.
 
-* **In development.** In development.
+- Tying our research further to Hellbent’s Real Estate Development Goals
+- Dive deeper into Zillow’s metric for value determination through time, and ensure it matches
+- Analyze each ZIP code and create a development project timeline and/or metric to ensure we’re abreast of current development saturation - and how such past developments have affected housing values in Atlanta
+- Compare our results had we added in the 08’ crisis or used different time splits, bringing in over a decade more of training data to improve our models
+- Map ROI past a three year horizon
 
 ## For More Information
 
-Please review my full analysis in my [Jupyter notebooks](./notebooks) or [presentation](./Film_Analysis_Project.pdf).
+Please review my full analysis in my [Jupyter notebooks](./notebooks) or [presentation](./presentation/Atlanta-ZIP-Code-Analysis-Project.pdf).
 
 For any additional questions, please contact **Sierra Stanton** & stanton.sierraerin@gmail.com
 
